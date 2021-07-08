@@ -11,3 +11,6 @@ If you would like an addon added to the list then either submit a PR or [create 
 ## [KissMP-Soccar](https://github.com/Dummiesman/KissMP-Soccar)
 ### Description:
 Soccar adds a car soccer game-mode for KISS Multiplayer servers
+## [Vulcan-dev's moderation extension](https://github.com/vulcan-dev/kissmp-extension-moderation)
+### Description
+Vulcan-dev's moderation extension for his [kissmp-base addon](https://github.com/vulcan-dev/kissmp-addon-base), Includes a large variety of moderation and utility commands. 
